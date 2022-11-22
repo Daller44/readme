@@ -23,4 +23,7 @@ PROPIEDAD/ATRIBUTO--> P= tiene un:
   
   <nombreVariable>( se las declara despUes de la class)--> ASOCIADA A LO QUE VAMOS PROGRAMAR
   Declaracion, INICIALISACION:
-    D->  
+    D->  COMO SE UTILIZA LA VARIABLE
+    I-> EVITA ERRORRES
+    
+ 
