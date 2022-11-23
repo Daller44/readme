@@ -48,7 +48,9 @@ PROPIEDAD/ATRIBUTO--> P= tiene un:
      *ERROR: compilador  --> dos erroresn sintactico y semanticpo
              logico ---> una divicion *0
      +ISSUE(defecto): corre pero esta mal
-     *Bug: 
+     *Bug: fallas
+     *podemos mejorar un if-else
+     break: finaliza 
      
      
      PROBLEMA 
@@ -65,7 +67,7 @@ PROPIEDAD/ATRIBUTO--> P= tiene un:
             System.out.print("El > es:"+a);
          }else{
            if (a==b)
-              System.out.print("son ==");
+              System.out.print("son ==");                                                                                                                                                                                              
              else
               System.out.print("el > es" +b);
              }
@@ -89,7 +91,15 @@ PROPIEDAD/ATRIBUTO--> P= tiene un:
                    }
     ```
     
+     Operador ternario:
      
+     int a=10, b=5, m;
+     if(a>b)
+        m=a;
+     else
+        m=b;
+      
+    codigo:  m=(a>b)? a:b;
     
                     
                     
