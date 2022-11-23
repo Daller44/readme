@@ -55,7 +55,8 @@ PROPIEDAD/ATRIBUTO--> P= tiene un:
      Determinar el diagrama de 2#
      Nombre del archivo= MayorNum
      inicio:
-       ```java
+    
+    ```java
     
       public class Hola{
     public static void main(String[]args){
@@ -67,7 +68,7 @@ PROPIEDAD/ATRIBUTO--> P= tiene un:
              }
                   }
                    }
-     ```
+    ```
     
      
     
