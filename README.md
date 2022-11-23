@@ -64,7 +64,26 @@ PROPIEDAD/ATRIBUTO--> P= tiene un:
         if(a>b){
             System.out.print("El > es:"+a);
          }else{
-            System.out.print("El > es:"+b);
+           if (a==b)
+              System.out.print("son ==");
+             else
+              System.out.print("el > es" +b);
+             }
+                  }
+                   }
+    ```
+     
+    ```java
+    
+      public class Hola{
+    public static void main(String[]args){
+        int a=10, b=10;
+        if(a==b){
+            System.out.print("son =");
+         if(a>b)    
+            System.out.print("El > es:"+a);
+         if(b>a)
+             System.out.print("El > es:"+b);
              }
                   }
                    }
